@@ -2,7 +2,8 @@
   # Resources Boilerplate
   resources.
   ## Getting Started
-  	 git clone git@github.com:e2e-boilerplate/resources.git 
-	 cd resources 
-	 npm install 
-	 npm run test 
+  	 git clone git@github.com:e2e-boilerplate/resources.git
+    	 cd resources
+    	 npm install
+    	 npm run test
+    
