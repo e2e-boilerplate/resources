@@ -1,16 +1,12 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/resources/issues"
   },
+  "dependencies": {},
   "description": "Resources end-to-end test automation boilerplate. ",
   "homepage": "https://github.com/e2e-boilerplate/resources#readme",
   "keywords": [
-    "boilerplate",
-    "e2e",
-    "e2e tests",
-    "example",
-    "integration test",
     "resources"
   ],
   "license": "MIT",
@@ -22,6 +18,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0",
-  "dependencies": {}
+  "version": "1.0.0"
 }
