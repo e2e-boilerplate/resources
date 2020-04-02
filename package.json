@@ -6,6 +6,11 @@
   "dependencies": {},
   "description": "Resources end-to-end test automation boilerplate. ",
   "homepage": "https://github.com/e2e-boilerplate/resources#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "keywords": [
     "boilerplate",
     "e2e",
@@ -15,6 +20,11 @@
     "resources"
   ],
   "license": "MIT",
+  "lint-staged": {
+    "*.{js,json,md}": [
+      "prettier --write"
+    ]
+  },
   "name": "resources",
   "repository": {
     "type": "git",
