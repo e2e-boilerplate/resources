@@ -1,11 +1,2 @@
-| referrer                                                 | count | uniques |
-| :------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/resources                               | 6     | 1       |
-| /e2e-boilerplate/resources/actions                       | 4     | 1       |
-| /e2e-boilerplate/resources/blob/master/package.json      | 2     | 1       |
-| /e2e-boilerplate/resources/tree/master/.github           | 2     | 1       |
-| /e2e-boilerplate/resources/actions/runs/65641101         | 1     | 1       |
-| /e2e-boilerplate/resources/actions/runs/65915437         | 1     | 1       |
-| /e2e-boilerplate/resources/edit/master/package.json      | 1     | 1       |
-| /e2e-boilerplate/resources/runs/542734784                | 1     | 1       |
-| /e2e-boilerplate/resources/tree/master/.github/workflows | 1     | 1       |
+| referrer | count | uniques |
+| :------- | :---- | :------ |
